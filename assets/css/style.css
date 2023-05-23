@@ -155,3 +155,10 @@ button#equal {
     background-color: #223323;
     color: #ffffff;
 }
+
+h1{
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+    color: #c3eaff;
+}
